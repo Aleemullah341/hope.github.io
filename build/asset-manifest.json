@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hope/static/css/main.e6c13ad2.css",
+    "main.js": "/hope/static/js/main.7d1a398f.js",
+    "static/js/787.3ea05394.chunk.js": "/hope/static/js/787.3ea05394.chunk.js",
+    "index.html": "/hope/index.html",
+    "main.e6c13ad2.css.map": "/hope/static/css/main.e6c13ad2.css.map",
+    "main.7d1a398f.js.map": "/hope/static/js/main.7d1a398f.js.map",
+    "787.3ea05394.chunk.js.map": "/hope/static/js/787.3ea05394.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7d1a398f.js"
+  ]
+}
